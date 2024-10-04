@@ -1,0 +1,8 @@
+1444;Algebra;1;5;4;
+2233;Tecnologias de la informacion;6;25;30;
+3564;Ingles;2;10;15;
+3696;Habilidades;1;4;10;
+4556;Desarrollo de habilidades;2;20;20;
+5558;Algoritmos;4;20;40;
+6666;Desarrollo web;1;45;8;
+7889;Proceso de Modelado;5;45;10;
